@@ -370,7 +370,7 @@
 
 \cvskill{Excel} {} {1} \\[-2pt]
 
-\cvskill{Dashboad Financiero} {} {1} \\[-2pt]
+\cvskill{Dashboard Financiero} {} {1} \\[-2pt]
 
 \cvskill{Power BI} {} {0.85} \\[-2pt]
 
